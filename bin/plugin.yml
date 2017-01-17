@@ -1,0 +1,13 @@
+name: HalloweenHunt
+main: me.Ckay.pvp.Main
+version: 1.0
+author: ABkayCkay
+commands:
+   hunt:
+      description: Main Boat command
+      usage: /hunt
+permissions:
+  hunt.admin:
+    description: Give access to admin command.
+  hunt.join:
+    description: Can join arena.
